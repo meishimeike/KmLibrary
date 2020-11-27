@@ -1,0 +1,9 @@
+D:\VS\KmLibrary\SqliteHelper\bin\Debug\SqliteHelper.dll.config
+D:\VS\KmLibrary\SqliteHelper\bin\Debug\SqliteHelper.dll
+D:\VS\KmLibrary\SqliteHelper\bin\Debug\SqliteHelper.pdb
+D:\VS\KmLibrary\SqliteHelper\bin\Debug\System.Data.SQLite.dll
+D:\VS\KmLibrary\SqliteHelper\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VS\KmLibrary\SqliteHelper\bin\Debug\System.Data.SQLite.xml
+D:\VS\KmLibrary\SqliteHelper\obj\Debug\SqliteHelper.csprojResolveAssemblyReference.cache
+D:\VS\KmLibrary\SqliteHelper\obj\Debug\SqliteHelper.dll
+D:\VS\KmLibrary\SqliteHelper\obj\Debug\SqliteHelper.pdb

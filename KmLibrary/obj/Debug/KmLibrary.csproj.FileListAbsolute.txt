@@ -1,0 +1,15 @@
+D:\VS2015\MyLibrary\MyLibrary\bin\Debug\KmLibrary.dll
+D:\VS2015\MyLibrary\MyLibrary\bin\Debug\KmLibrary.pdb
+D:\VS2015\MyLibrary\MyLibrary\obj\Debug\KmLibrary.dll
+D:\VS2015\MyLibrary\MyLibrary\obj\Debug\KmLibrary.pdb
+D:\VS2015\KmLibrary\KmLibrary\bin\Debug\KmLibrary.dll
+D:\VS2015\KmLibrary\KmLibrary\bin\Debug\KmLibrary.pdb
+D:\VS2015\KmLibrary\KmLibrary\bin\Debug\System.Data.SQLite.dll
+D:\VS2015\KmLibrary\KmLibrary\obj\Debug\KmLibrary.csprojResolveAssemblyReference.cache
+D:\VS2015\KmLibrary\KmLibrary\obj\Debug\KmLibrary.dll
+D:\VS2015\KmLibrary\KmLibrary\obj\Debug\KmLibrary.pdb
+D:\VS\KmLibrary\KmLibrary\bin\Debug\KmLibrary.dll
+D:\VS\KmLibrary\KmLibrary\bin\Debug\KmLibrary.pdb
+D:\VS\KmLibrary\KmLibrary\obj\Debug\KmLibrary.csprojResolveAssemblyReference.cache
+D:\VS\KmLibrary\KmLibrary\obj\Debug\KmLibrary.dll
+D:\VS\KmLibrary\KmLibrary\obj\Debug\KmLibrary.pdb

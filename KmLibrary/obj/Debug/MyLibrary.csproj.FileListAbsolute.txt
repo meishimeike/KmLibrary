@@ -1,0 +1,4 @@
+D:\VS2015\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+D:\VS2015\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\VS2015\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+D:\VS2015\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
